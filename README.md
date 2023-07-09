@@ -1,4 +1,5 @@
 # School-Management-System
+![Screenshot 2023-07-09 122003](https://github.com/paschalis777/School-Management-System/assets/125591063/7d4198a5-bcaa-4bba-8ac9-216232b33161)
 
 "School Management System" application:
 
